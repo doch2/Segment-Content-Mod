@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "segmentmod",
+    "name": "Segmentmod",
+    "description": "This is YD Contents 'Segment' Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "doch13_"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

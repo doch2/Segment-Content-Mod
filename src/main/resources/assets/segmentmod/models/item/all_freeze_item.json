@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "segmentmod:items/all_freeze_item"
+    }
+}
